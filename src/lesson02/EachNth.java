@@ -12,7 +12,7 @@ public class EachNth {
             if (i % n != 0) {
                 continue;
             }
-               Srting arr [i]
+               Srting arr;
         }
     }
 }
